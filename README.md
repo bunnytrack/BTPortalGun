@@ -16,7 +16,7 @@ This is an updated version of UT BunnyTrack player OwYeaW's [BTPortalGun](https:
 * New animated portal textures and portal enter/exit visual effects
 * Portals now interact with triggers
 * Several new actors which interact with portals, e.g. a portal-destroying trigger which can remove portals when players exit a room
-* Now available to use a mutator
+* Now available to use as a mutator
 
 For the full change log, see [BTPortalGun_Instructions.uc](Classes/BTPortalGun_Instructions.uc).
 
