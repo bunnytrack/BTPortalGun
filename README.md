@@ -15,7 +15,7 @@ This is an updated version of UT BunnyTrack player OwYeaW's [BTPortalGun](https:
 * Several new actors which interact with portals, e.g. a portal-destroying trigger which can remove portals when players exit a room
 * Now available to use a mutator
 
-For the full change log, see [BTPortalGun_Instructions.uc](./BTPortalGunV2_1/Classes/BTPortalGun_Instructions.uc).
+For the full change log, see [BTPortalGun_Instructions.uc](Classes/BTPortalGun_Instructions.uc).
 
 With thanks to UT player VRN|>@tack!< (aka Kaos Richie/Richard Nazarian) for spending many hours improving the original mod and patiently fixing bugs. Much of his progress was live streamed on his Twitch account at https://www.twitch.tv/kaosrichie
 
