@@ -7,6 +7,8 @@
 * OwYeaW (original)
 * VRN|>@tack!< (v2.1)
 
+Additional thanks to BunnyTrack mapper NuLL for contributing ideas, testing and feedback.
+
 ### Description
 This is an updated version of UT BunnyTrack player OwYeaW's [BTPortalGun](https://github.com/bunnytrack/OwYeaW-UScript-Archive/tree/master/BTPortalGun_beta_v1) mod. Several new features have been added as well as a fairly significant bug fix:
 
@@ -20,6 +22,6 @@ For the full change log, see [BTPortalGun_Instructions.uc](Classes/BTPortalGun_I
 
 With thanks to UT player VRN|>@tack!< (aka Kaos Richie/Richard Nazarian) for spending many hours improving the original mod and patiently fixing bugs. Much of his progress was live streamed on his Twitch account at https://www.twitch.tv/kaosrichie
 
-Additional thanks to BunnyTrack mapper NuLL for testing and feedback.
+Additional thanks to BunnyTrack mapper NuLL for contributing ideas, testing and feedback.
 
 Included in this repository is the compiled mod, [BTPortalGunV2_1.u](BTPortalGunV2_1.u), as well as the source code and accompanying asset files.
