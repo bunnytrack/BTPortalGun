@@ -1,0 +1,2 @@
+[Public]
+Object=(Name=BTPortalGunV2.PortalGunMutator,Class=Class,MetaClass=Engine.Mutator,Description="PortalGun")
