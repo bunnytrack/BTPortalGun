@@ -1,5 +1,12 @@
 # BTPortalGun 2.1
 
+### Authors
+
+* OwYeaW (original)
+* VRN|>@tack!< (v2.1)
+
+### Description
+
 This is an updated version of UT BunnyTrack player OwYeaW's [BTPortalGun](https://github.com/bunnytrack/OwYeaW-UScript-Archive/tree/master/BTPortalGun_beta_v1) mod. Several new features have been added as well as a fairly significant bug fix:
 
 * Firing portals is no longer broken when attempting to fire the gun before the "weapon switch" animation has finished
